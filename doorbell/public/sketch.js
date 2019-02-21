@@ -6,7 +6,7 @@
 
 var dingdong;   // A sound file object
 var doorbell;   // A doorbell object (that will trigger the sound)
-vat socket;
+var socket;
 
 
 function setup() {
