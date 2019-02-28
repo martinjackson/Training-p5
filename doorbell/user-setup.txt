@@ -1,0 +1,2 @@
+sudo usermod -a -G gpio mjackson
+sudo usermod -a -G dialout pi
